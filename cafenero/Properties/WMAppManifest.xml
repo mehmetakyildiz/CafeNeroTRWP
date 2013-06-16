@@ -4,7 +4,7 @@
   <Languages xmlns="">
     <Language code="tr-TR" />
   </Languages>
-  <App xmlns="" ProductID="{2491c4c6-ae0e-4c56-a167-abb4207114fe}" Title="Caffe Nero" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Daron Yondem" Description="Uygulama ile Caffe Nero'nun müşteri sadakat ve kampanya programına üye olabilirsiniz. Uygulamada göreceğiniz QR Code'u her kahve satın aldığınızda kasada gösterirseniz satın aldığınız dokuz kahve ile kahve kartınızı doldurup ücretsiz 1 kahve içebilirsiniz." Publisher="Daron Yondem" PublisherID="{a07dee49-f62c-4456-b81b-12a6451834a7}">
+  <App xmlns="" ProductID="{2491c4c6-ae0e-4c56-a167-abb4207114fe}" Title="Caffe Nero" RuntimeType="Silverlight" Version="1.0.0.2" Genre="apps.normal" Author="Daron Yondem" Description="Uygulama ile Caffe Nero'nun müşteri sadakat ve kampanya programına üye olabilirsiniz. Uygulamada göreceğiniz QR Code'u her kahve satın aldığınızda kasada gösterirseniz satın aldığınız dokuz kahve ile kahve kartınızı doldurup ücretsiz 1 kahve içebilirsiniz." Publisher="Daron Yondem" PublisherID="{a07dee49-f62c-4456-b81b-12a6451834a7}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
