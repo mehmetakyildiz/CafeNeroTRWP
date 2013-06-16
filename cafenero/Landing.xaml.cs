@@ -61,6 +61,9 @@ namespace cafenero
                     }
                     for (int i = 0; i < deserializedResponse.data[0].AvaliableCount; i++)
                     {
+                        //9'dan fazla puanı şu an uygulama desteklemiyor...
+                        if (i > 8)
+                            break;
                         stampCanvas.Children[i].Opacity = 1;
                     }
                 }
